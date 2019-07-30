@@ -1,0 +1,3 @@
+<keymap version="1" name="Default复制" parent="$default">
+  <action id="EditorSelectWord" />
+</keymap>
