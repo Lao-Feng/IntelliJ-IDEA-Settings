@@ -1,7 +1,0 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="EditorPasteFromX11" />
-  <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-    <mouse-shortcut keystroke="button1" />
-  </action>
-</keymap>
